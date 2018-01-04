@@ -33,3 +33,9 @@ body {
 	font-size: 1.8em;
 	font-weight: 800;
 }
+.footer {
+	background-color: #008C69;
+	color: #FFFFFF;
+	padding: 20px;
+	margin-top: 10px;
+}
