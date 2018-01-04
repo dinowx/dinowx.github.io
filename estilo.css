@@ -33,10 +33,30 @@ body {
 	font-size: 1.8em;
 	font-weight: 800;
 }
+h2 {
+	font-family: 'Oswald', sans-serif;
+	color: #00674C;
+}
 .debate {
 	background-color: #f9f9f9;
 	padding: 20px;
 }
+.data {
+	font-family: 'Play', sans-serif;
+	font-size: 0.8em;
+	color:#999999;
+	text-align: right;
+}
+.boxH {
+	color: #FFFFFF;
+	background-color: #00C092;
+	padding: 10px;
+	font-family: 'Anton', sans-serif;
+	font-weight: normal;
+	margin-bottom: 0px;
+	font-size: 1.3em;
+}
+
 .footer {
 	background-color: #008C69;
 	color: #FFFFFF;
