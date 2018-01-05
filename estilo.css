@@ -66,6 +66,36 @@ h2 {
 	margin-bottom: 0px;
 	font-size: 1.3em;
 }
+.debate ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.debate li a {
+	color: #00674C;
+	list-style-type: none;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #00CC99;
+    border-radius: 10px;
+}
+
 
 .footer {
 	background-color: #008C69;
